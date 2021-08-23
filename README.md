@@ -1,1 +1,3 @@
 # stats1_and_stats2
+Statistics is the study of data collection, analysis, perception, introduction, and organization. It is a method of gathering and summarizing results. This has a wide range of uses, from small to large. Stats are used for any data collection
+Statistics has a wide range of applications in many disciplines, including economics, psychology, geology, weather forecasts, and so on. The information gathered for research here may be quantitative or qualitative. Quantitative data can also be divided into two types: discrete and continuous. Continuous data has a spectrum rather than a single value, whereas discrete data has a fixed value.
